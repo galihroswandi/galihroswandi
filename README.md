@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **I'am Galih Roswandi**
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: galihroswandi25@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy learning new things
--->
